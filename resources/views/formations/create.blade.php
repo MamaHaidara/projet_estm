@@ -1,7 +1,7 @@
 @extends('../template')
 
 @section('titre')
-    Créer un Formation
+    Créer une Formation
 @endsection
 
 @section('contenu')
